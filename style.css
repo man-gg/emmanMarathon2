@@ -97,7 +97,7 @@ nav ul li a:hover:after {
 }
 
 #features img{
-    height: 325px;
+    max-height: 325px;
     width: auto;
     margin: 10px;
 }
@@ -173,7 +173,7 @@ nav ul li a:hover:after {
   color: black;
 }
 
-.row  {
+.rows {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -294,7 +294,7 @@ nav ul li a:hover:after {
     padding-bottom: 50px;
   }
   
-  .rows {
+  .row {
     flex-direction: column;
   }
   
