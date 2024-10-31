@@ -294,7 +294,7 @@ nav ul li a:hover:after {
     padding-bottom: 50px;
   }
   
-  .row {
+  .rows {
     flex-direction: column;
   }
   
